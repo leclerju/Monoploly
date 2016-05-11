@@ -19,4 +19,5 @@ public class Monopoly {
         System.out.println("ntm");
     }
     euzfuizegfurzef
+            rguiheriu
 }
