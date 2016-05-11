@@ -18,4 +18,5 @@ public class Monopoly {
         // TODO code application logic here
         System.out.println("ntm");
     }
+    euzfuizegfurzef
 }
